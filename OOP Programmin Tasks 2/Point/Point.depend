@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1617612729 source:d:\sem2\oop\lectures - examples\point\prog.cpp
+	<iostream>
+	"Point.h"
+	"Vector.h"
+
+1617610783 source:d:\sem2\oop\lectures - examples\point\vector.cpp
+
+1617611643 source:d:\sem2\oop\lectures - examples\point\point.cpp
+	"Point.h"
+	<iostream>
+	<cmath>
+
+1617611663 d:\sem2\oop\lectures - examples\point\point.h
+
+1617612761 d:\sem2\oop\lectures - examples\point\vector.h
+	"Point.h"
+

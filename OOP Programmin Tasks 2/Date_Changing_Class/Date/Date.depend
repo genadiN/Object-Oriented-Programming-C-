@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615923819 source:d:\sem2\programming\constructors\date_changing_class\date\main.cpp
+	"Date.h"
+	<iostream>
+
+1615923531 source:d:\sem2\programming\constructors\date_changing_class\date\date.cpp
+	"Date.h"
+	<iostream>
+
+1615922932 d:\sem2\programming\constructors\date_changing_class\date\date.h
+

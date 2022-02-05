@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1617610200 source:d:\sem2\oop\lectures - examples\reational_operator_friends\main.cpp
+	<iostream>
+	"Rational.cpp"
+
+1617610311 d:\sem2\oop\lectures - examples\reational_operator_friends\rational.cpp
+	"Rational.h"
+	<iostream>
+
+1617610224 d:\sem2\oop\lectures - examples\reational_operator_friends\rational.h
+
+1617610311 source:d:\sem2\oop\lectures - examples\reational_operator_friends\rational.cpp
+	"Rational.h"
+	<iostream>
+

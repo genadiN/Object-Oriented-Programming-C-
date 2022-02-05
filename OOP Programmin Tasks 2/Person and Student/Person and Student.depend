@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1618071180 source:d:\sem2\oop\lectures - examples\person and student\main.cpp
+	"Student.h"
+	<iostream>
+
+1618070442 d:\sem2\oop\lectures - examples\person and student\student.h
+	"Person.h"
+
+1618070580 d:\sem2\oop\lectures - examples\person and student\person.h
+
+1618071164 source:d:\sem2\oop\lectures - examples\person and student\student.cpp
+	"Student.h"
+	<iostream>
+	<cstring>
+
+1618070995 source:d:\sem2\oop\lectures - examples\person and student\person.cpp
+	"Person.h"
+	<iostream>
+	<cstring>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617613940 source:d:\sem2\oop\lectures - examples\stack\main.cpp
+	<iostream>
+	"Stack.h"
+
+1617613718 source:d:\sem2\oop\lectures - examples\stack\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1617613696 d:\sem2\oop\lectures - examples\stack\stack.h
+

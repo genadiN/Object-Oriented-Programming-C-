@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617560714 source:d:\sem2\oop\lectures - examples\rational_operating_methods\rational,cpp.c
+
+1617564165 source:d:\sem2\oop\lectures - examples\rational_operating_methods\main.cpp
+	<iostream>
+	"Ratioanl.h"
+
+1617564217 d:\sem2\oop\lectures - examples\rational_operating_methods\ratioanl.h
+

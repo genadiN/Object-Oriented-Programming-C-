@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617702805 source:d:\sem2\oop\lectures - examples\likedstack2\main.cpp
+	<iostream>
+	"LinkedStack.h"
+
+1617703081 d:\sem2\oop\lectures - examples\likedstack2\linkedstack.h
+
+1617703112 source:d:\sem2\oop\lectures - examples\likedstack2\linkedstack.cpp
+	"LinkedStack.h"
+	<iostream>
+
